@@ -28,10 +28,10 @@ public class MainActivity extends Activity implements
     private static final int PLAY_SERVICES_REQUEST_CODE = 1;
 
     // Create a new application at https://developers.arcgis.com/en/applications
-    private static final String AGO_CLIENT_ID = "zZZmPbUOzYY8vPkL";
+    private static final String AGO_CLIENT_ID = "XXXX";
 
     // The project number from https://code.google.com/apis/console
-    private static final String GCM_SENDER_ID = "149545545674";
+    private static final String GCM_SENDER_ID = "XXXX";
 
     // A list of initial tags to apply to the device.
     // Triggers created on the server for this application, with at least one of
