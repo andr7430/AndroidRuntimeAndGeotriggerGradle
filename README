@@ -1,0 +1,4 @@
+This is a simple template project that includes both ArcGIS Android Runtime and Geotrigger API.
+This project is intended for gradle based projects. (ie Android Studio)
+This includes libraries for both Android Runtime and Geotrigger API
+This projects includes Android Runtime libraries that were not readily usable in gradled based projects.
